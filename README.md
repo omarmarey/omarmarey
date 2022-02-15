@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Dr. omar marey
-- 👀 I’m interested in  
-- 🌱 I’m currently Assistant Proffesor 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently Assistant Proffesor in Computer Engineering at University of Hafr Al Batin .
 - 📫 You can reach me by email: omarm@uhb.edu.sa
 
 <!---
